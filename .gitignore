@@ -1,0 +1,21 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.springBeans
+
+# IDEA
+*.iml
+
+# Gradle
+.gradle
+/build/
+.gradletasknamecache
+
+### Java template
+*.class
+ 
+# Package Files #
+*.jar
+*.war
+*.ear
